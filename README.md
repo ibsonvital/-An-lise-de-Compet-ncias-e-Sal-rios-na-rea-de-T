@@ -1,6 +1,7 @@
 # 📊 Análise de Competências e Salários em TI
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Pessoa programando"/>
 ---
+ 
  🚀 Visão Geral
 
 ## Este projeto apresenta uma análise de vagas, competências e salários no setor de Tecnologia da Informação, cobrindo quatro áreas principais:
