@@ -1,4 +1,4 @@
-📊 Análise de Competências e Salários em TI
+# 📊 Análise de Competências e Salários em TI
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Pessoa programando"/>
 🚀 Visão Geral
 
